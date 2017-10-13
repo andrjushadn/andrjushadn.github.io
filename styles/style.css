@@ -5,7 +5,7 @@ html {
 }
 
 body{
-	width: 1000px;/*ширина тела*/
+	width: 1100px;/*ширина тела*/
 	margin: 0 auto;
 	background-color: #EBA7DB;
 	padding: 0 20px 20px 20px;/*пространство вокруг контента--верх лево низ право*/
