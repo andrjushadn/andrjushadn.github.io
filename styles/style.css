@@ -1,0 +1,32 @@
+html {
+	background-color: #7EE0C6;
+	font-size: 20px;/*размер шрифта в высоту*/
+	font-family:Raleway;
+}
+
+body{
+	width: 800px;/*ширина тела*/
+	margin: 0 auto;
+	background-color: #EBA7DB;
+	padding: 0 20px 20px 20px;/*пространство вокруг контента--верх лево низ право*/
+	border: 5px solid white;
+}
+
+h1 {
+	margin: 0;/*определяем разрыв сверху и снизу от заголовка*/
+	padding: 20px 0;/*веръний и нижний*/
+	color: #7EE0C6;
+	text-shadow: 3px 3px 1px white;/*горизонтально смещение тени, вертикальное смещение тени, радиус размытия*/
+	font-size: 60px;
+	text-align: center;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 1px;
+}
+img{
+	display: block;/*даем элементу блочное поведение*/
+	margin: 0 auto;
+}
